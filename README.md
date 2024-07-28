@@ -9,3 +9,5 @@ Level C Task : Executed different Queries as per the Tasks Assigned.
 Student Allotment SQL Problem : Implemented a Stored Procedure to assign all the students to a respective subject according to the stated workflow.
 
 Subject Change Request Problem : Implemented a Stored Procedure to insert the requested subject as a valid record in the SubjectAllotments Table according to the stated workflow.
+
+Project : Departmental average salary analysis 
